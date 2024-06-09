@@ -37,13 +37,14 @@
 
    **3.** Create Profit and Loss (P&L) report by _[FY & Market breakdown]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Finance%20report%20p%26l%20market%20breakdown.pdf_
 
-   **4.** Create _[GM% by quarters report]
+   **4.** Create _[GM% by quarters report(Sub zone)]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/GM%25%20by%20quarters%20report.pdf_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Importance of analyzing Finance dataf** Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
