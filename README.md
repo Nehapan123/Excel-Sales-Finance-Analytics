@@ -17,7 +17,9 @@
 
     **6.** Create a _[New products 2021 report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/New%20products%202021%20atliq%20report.pdf_ for new products that Atliq began selling in 2021.
 
-    **7.** Create a _[Top 5 coumtries report] for  the top 5 countries in terms of net sales in 2021.  
+    **7.** Create a _[Top 5 coumtries report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%205%20country%20atliq%20report.pdf_ for  the top 5 countries in terms of net sales in 2021.
+
+   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -29,7 +31,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/P%26l%20by%20FY%20report.pdf_ & _[Months]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Finance%20report%20p%26l%20by%20fiscal%20months.pdf_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & _[Months]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Finance%20report%20p%26l%20by%20fiscal%20months.pdf_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/P%26l%20for%20market%20report.pdf_
 
