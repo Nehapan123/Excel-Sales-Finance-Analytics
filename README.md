@@ -9,6 +9,8 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20target%20report.pdf_
 
+    **3.** Create a _[top 10 products report] based on the percentage increase in their net sales from 2020 to 2021.
+  
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
