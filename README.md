@@ -9,7 +9,9 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20target%20report.pdf_
 
-    **3.** Create a _[top 10 products report] based on the percentage increase in their net sales from 2020 to 2021.
+    **3.** Create a _[top 10 products report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%20products%20atliq%20report.pdf_ based on the percentage increase in their net sales from 2020 to 2021.
+
+    **4.** Generate a _[Division report] to present the net sales data for 2020 and 2021, along with the growth percentage. 
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
