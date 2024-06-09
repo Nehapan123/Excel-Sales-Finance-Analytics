@@ -11,8 +11,9 @@
 
     **3.** Create a _[top 10 products report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%20products%20atliq%20report.pdf_ based on the percentage increase in their net sales from 2020 to 2021.
 
-    **4.** Generate a _[Division report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Division%20level%20atliq%20report.pdf_ to present the net sales data for 2020 and 2021, along with the growth percentage. 
+    **4.** Generate a _[Division report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Division%20level%20atliq%20report.pdf_ to present the net sales data for 2020 and 2021, along with the growth percentage.
   
+    **5.** Create a _[top & bottom 5 products report] for products that are ranked in the top 5 and bottom 5 in terms of quantity sold
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
