@@ -23,7 +23,7 @@
     **6.** Create a _[New products 2021 report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/New%20products%202021%20atliq%20report.pdf_ for new products that Atliq began selling in 2021.
 
 
-    **7.** Create a _[Top 5 coumtries report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%205%20country%20atliq%20report.pdf_ for  the top 5 countries in terms of net sales in 2021.
+    **7.** Create a _[Top 5 countries report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%205%20country%20atliq%20report.pdf_ for  the top 5 countries in terms of net sales in 2021.
 
 
    
