@@ -9,7 +9,6 @@
 
 
 
-
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20target%20report.pdf_
 
 
