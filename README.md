@@ -53,7 +53,7 @@
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance dataf** Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
+- **Importance of these reports:** Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
@@ -64,8 +64,15 @@
 
    **1.** Create _[Project priority matrix report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Project%20priority%20matrix%20report.pdf_
 
-   **2.** Create _[Scenario planning tool report]
+   **2.** Create _[Scenario planning tool report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Scenario%20planning%20tool%20report.pdf_
 
+
+- **Purpose of reports:** To create fiesability-impact matrix , empower businesses to monitor and evaluate their sales activity such as discount% etc.
+
+- **Importance of these reports** Helps to prioritize project based on feasibility and impact , monitor scenarios based on various parameters. 
+
+- **Role of reports:** Support decision-making based on the best case ,worst case and realistic case scenario.
+   
     
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
