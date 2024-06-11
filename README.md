@@ -62,7 +62,9 @@
 
 - **Project objective:**
 
-   **1.** Create _[Project priority matrix report]
+   **1.** Create _[Project priority matrix report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Project%20priority%20matrix%20report.pdf_
+
+   **2.** Create _[Scenario planning tool report]
 
     
 ## Technical & Soft Skills:
