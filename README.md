@@ -5,25 +5,23 @@
 
 - **Project objective:** 
 
-    **1.** Create a _customer performance report
+    **1.** Create a customer performance report.
 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Nehapan123/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20target%20report.pdf_
+    **2.** Conduct a comprehensive comparison between market performance and sales targets.
 
 
-    **3.** Create a _[top 10 products report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%20products%20atliq%20report.pdf_ based on the percentage increase in their net sales from 2020 to 2021.
+    **3.** Create a top 10 products report.
 
-
-    **4.** Generate a _[Division report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Division%20level%20atliq%20report.pdf_ to present the net sales data for 2020 and 2021, along with the growth percentage.
+    **4.** Generate a Division report. 
 
   
-    **5.** Create a _[Top & bottom 5 products report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%20%26%20bottom%205%20products%20atliq%20report.pdf_ for products that are ranked in the top 5 and bottom 5 in terms of quantity sold.
+    **5.** Create a Top & bottom 5 products report.
+
+    **6.** Create a New products 2021 report.
 
 
-    **6.** Create a _[New products 2021 report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/New%20products%202021%20atliq%20report.pdf_ for new products that Atliq began selling in 2021.
-
-
-    **7.** Create a _[Top 5 countries report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Top%205%20country%20atliq%20report.pdf_ for  the top 5 countries in terms of net sales in 2021.
+    **7.** Create a Top 5 countries report.
 
 
    
@@ -38,16 +36,16 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/P%26l%20by%20FY%20report.pdf_ & _[Months]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Finance%20report%20p%26l%20by%20fiscal%20months.pdf_ 
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year & Months.
 
 
-   **2.** Create Profit and Loss (P&L) report by _[Markets]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/P%26l%20for%20market%20report.pdf_
+   **2.** Create Profit and Loss (P&L) report by Markets.
 
 
-   **3.** Create Profit and Loss (P&L) report by _[FY & Market breakdown]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Finance%20report%20p%26l%20market%20breakdown.pdf_
+   **3.** Create Profit and Loss (P&L) report by FY & Market breakdown.
 
 
-   **4.** Create _[GM% by quarters report(Sub zone)]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/GM%25%20by%20quarters%20report.pdf_
+   **4.** Create GM% by quarters report(Sub zone).
 
 
 
@@ -62,9 +60,9 @@
 
 - **Project objective:**
 
-   **1.** Create _[Project priority matrix report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Project%20priority%20matrix%20report.pdf_
+   **1.** Create Project priority matrix report.
 
-   **2.** Create _[Scenario planning tool report]https://github.com/Nehapan123/Excel-Sales-Finance-Analytics/blob/main/Scenario%20planning%20tool%20report.pdf_
+   **2.** Create Scenario planning tool report.
 
 
 - **Purpose of reports:** To create feasibility-impact matrix , empower businesses to monitor and evaluate their sales activity such as discount% etc.
